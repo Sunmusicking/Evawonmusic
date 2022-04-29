@@ -183,7 +183,7 @@ async def vplay(c: Client, m: Message):
                     [
                         [
                             InlineKeyboardButton("📣 Channel", url=f"https://t.me/BotDuniya"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/PmPermit")
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/+R7D0nHLk8s9jODA1")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
@@ -229,7 +229,7 @@ async def vplay(c: Client, m: Message):
                         else:
                             try:
                                 await loser.edit(
-                            f"**𝘽𝙤𝙩 𝘿𝙪𝙣𝙞𝙮𝙖 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**𝗧𝗵𝗲𝗗𝗲𝗮𝘁𝗵𝗦𝗼𝘂𝗹 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                                 await call_py.join_group_call(
                                     chat_id,
@@ -262,8 +262,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/BotDuniya"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/PmPermit")
+                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/ZaraSupport"),
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/+R7D0nHLk8s9jODA1")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
@@ -306,7 +306,7 @@ async def vplay(c: Client, m: Message):
                     else:
                         try:
                             await loser.edit(
-                            f"**𝘽𝙤𝙩 𝘿𝙪𝙣𝙞𝙮𝙖 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**𝗧𝗵𝗲𝗗𝗲𝗮𝘁𝗵𝗦𝗼𝘂𝗹 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                             await call_py.join_group_call(
                                 chat_id,
