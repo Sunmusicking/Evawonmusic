@@ -1,7 +1,7 @@
-<h2 align="centre">KIGO Music Player</h2>
+<h2 align="centre">𝗘𝗩𝗔 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4c0f3f6c07b82eda1cee0.jpg">
+  <img src="https://te.legra.ph/file/ec4402a5091250628534b.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -39,16 +39,15 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/KIGO-OMFO/RaiChu-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/The-Death-Soul/Evawonmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 # Credits ✨
 - callmusic 
 - PyTgCalls
 
 #### Special Credits
-- [Subhanahu](https://t.me/Shubhanshutya)
-- [Sammy](https://t.me/OpFriDay)
-- [Abhi](https://t.me/ItZ_Nobita_xD)
+- [Zain Hussain](https://t.me/The_Death_Soul)
+- [Zara Lina](https://t.me/The_Alive_Soul)
 
 ### Support & Updates 🇮🇳
-<a href="https://t.me/OmFoXD"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kigo_omfo"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ZaraSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Love_Dear_Comrades"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
