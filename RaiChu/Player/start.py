@@ -33,15 +33,15 @@ async def _human_time_duration(seconds):
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
         await message.reply_text(
-        f"""**I ᴀᴍ 𝘽𝙤𝙩 𝘿𝙪𝙣𝙞𝙮𝙖 𝙈𝙪𝙨𝙞𝙘   
-ʙᴏᴛ ʜᴀɴᴅʟᴇ ʙʏ [KIGO](https://t.me/INSANE_BOTS)
+        f"""**I ᴀᴍ 𝗘𝗩𝗔 𝗠𝘂𝘀𝗶𝗰   
+ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [𝗭🅐︎𝗜𝗡](https://t.me/The_Death_Soul)
 Thanks to add me 😇**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Handle", url="https://t.me/Shubhanshutya"
+                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/The_Alive_Soul"
                     ),
                     InlineKeyboardButton(
                         "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭", callback_data="cbbasic"
@@ -51,10 +51,10 @@ Thanks to add me 😇**
                     ),
                   ],[
                     InlineKeyboardButton(
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/godzilla_chatting"
+                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/+R7D0nHLk8s9jODA1"
                     ),
                     InlineKeyboardButton(
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/INSANE_BOTS"
+                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/ZaraSupport"
                     )
                 ],[
                     InlineKeyboardButton(
