@@ -16,15 +16,15 @@ from RaiChu.config import (
 @Client.on_callback_query(filters.regex("cbstart"))
 async def cbstart(_, query: CallbackQuery):
     await query.edit_message_text(
-        f"""**I ᴀᴍ 𝗘𝗩𝗔 𝗠𝘂𝘀𝗶𝗰   
-ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [𝗭🅐︎𝗜𝗡](https://t.me/The_Death_Soul)
+        f"""**I ᴀᴍ 𝗭𝗔𝗥𝗔 𝗠𝘂𝘀𝗶𝗰   
+ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [••❥⧉⃞🇿ₐ𝖗𝗮̥ͦ─⃜🔥 ͟͞⏤►](https://t.me/zara_THE_addiction)
 Thanks to add me 😇**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/The_Alive_Soul"
+                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/zara_THE_addiction"
                     ),
                     InlineKeyboardButton(
                         "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭", callback_data="cbbasic"
@@ -56,7 +56,7 @@ async def cbguides(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""❓ **Basic Guide for using this bot:**
         
-⊙ https://te.legra.ph/file/b826a85670bc7c2b8c716.jpg
+⊙ https://te.legra.ph/file/d3185c725b9ba69b3f339.jpg
 
 1.) **First, add me to your group.**
 2.) **Then, promote me as administrator and give all permissions except Anonymous Admin.**
