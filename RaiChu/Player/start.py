@@ -34,14 +34,14 @@ async def _human_time_duration(seconds):
 async def start(_, message: Message):
         await message.reply_text(
         f"""**I ᴀᴍ 𝗘𝗩𝗔 𝗠𝘂𝘀𝗶𝗰   
-ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [𝗭🅐︎𝗜𝗡](https://t.me/The_Death_Soul)
+ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [••❥⧉⃞🇿ₐ𝖗𝗮̥ͦ─⃜🔥 ͟͞⏤►](https://t.me/zara_THE_addiction)
 Thanks to add me 😇**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/The_Alive_Soul"
+                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/zara_THE_addiction"
                     ),
                     InlineKeyboardButton(
                         "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭", callback_data="cbbasic"
