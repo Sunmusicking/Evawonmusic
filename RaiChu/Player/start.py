@@ -33,7 +33,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
         await message.reply_text(
-        f"""**I ᴀᴍ 𝗘𝗩𝗔 𝗠𝘂𝘀𝗶𝗰   
+        f"""**I ᴀᴍ 𝐙𝐀𝐑𝐀 𝗠𝘂𝘀𝗶𝗰 💞  
 ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [••❥⧉⃞🇿ₐ𝖗𝗮̥ͦ─⃜🔥 ͟͞⏤►](https://t.me/zara_THE_addiction)
 Thanks to add me 😇**
         """,
