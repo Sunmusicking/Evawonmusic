@@ -141,7 +141,7 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton("▶️", callback_data="cbresume"),
                   ],[
                       InlineKeyboardButton("• Group", url=f"https://t.me/+R7D0nHLk8s9jODA1"),
-                      InlineKeyboardButton("• Devloper", url=f"https://t.me/The_Death_Soul"),
+                      InlineKeyboardButton("• Devloper", url=f"https://t.me/zara_THE_addiction"),
                   ],[
                       InlineKeyboardButton("🗑", callback_data="cls")],
                   ]
@@ -265,7 +265,7 @@ async def play(c: Client, m: Message):
             )
         else:
             suhu = await m.reply_text(
-        f"**𝗧𝗵𝗲𝗗𝗲𝗮𝘁𝗵𝗦𝗼𝘂𝗹 Downloading**\n\n0% ▓▓▓▓▓▓▓▓▓▓▓▓ 100%"
+        f"**𝐙𝐀𝐈𝐍 Downloading**\n\n0% ▓▓▓▓▓▓▓▓▓▓▓▓ 100%"
     )
             query = m.text.split(None, 1)[1]
             search = ytsearch(query)
@@ -300,7 +300,7 @@ async def play(c: Client, m: Message):
                     else:
                         try:
                             await suhu.edit(
-                            f"**𝗧𝗵𝗲𝗗𝗲𝗮𝘁𝗵𝗦𝗼𝘂𝗹 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**𝗭𝗔𝗜𝗡 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                             await call_py.join_group_call(
                                 chat_id,
