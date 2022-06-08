@@ -1,7 +1,7 @@
-<h2 align="centre">𝗘𝗩𝗔 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥</h2>
+<h2 align="centre">𝗭𝗔𝗥𝗔 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥~2.0</h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/ec4402a5091250628534b.jpg">
+  <img src="https://te.legra.ph/file/c3ccde973334f10f9f825.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -46,8 +46,8 @@
 - PyTgCalls
 
 #### Special Credits
-- [Zain Hussain](https://t.me/The_Death_Soul)
-- [Zara Lina](https://t.me/The_Alive_Soul)
+- [Zain Hussain](https://t.me/zain_THE_addictions)
+- [Zara Lina](https://t.me/zara_THE_addiction)
 
 ### Support & Updates 🇮🇳
 <a href="https://t.me/ZaraSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Love_Dear_Comrades"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
