@@ -33,15 +33,15 @@ async def _human_time_duration(seconds):
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
         await message.reply_text(
-        f"""**I ᴀᴍ 𝐙𝐀𝐑𝐀 𝗠𝘂𝘀𝗶𝗰 💞  
-ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [••❥⧉⃞🇿ₐ𝖗𝗮̥ͦ─⃜🔥 ͟͞⏤►](https://t.me/zara_THE_addiction)
+        f"""**I ᴀᴍ 𝙎𝘼𝙉𝘼 𝙆𝙄𝙉𝙂 💞  
+ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [▉🇰 🇮 🇳 🇬 ▉](https://t.me/imzaynking)
 Thanks to add me 😇**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/zara_THE_addiction"
+                        "🍹🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/imzaynking"
                     ),
                     InlineKeyboardButton(
                         "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭", callback_data="cbbasic"
@@ -51,14 +51,14 @@ Thanks to add me 😇**
                     ),
                   ],[
                     InlineKeyboardButton(
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/+R7D0nHLk8s9jODA1"
+                       "🥰𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/tamil_chatbox"
                     ),
                     InlineKeyboardButton(
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/ZaraSupport"
+                        "🌈𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/king_bioz"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩➕",
+                        "🍹 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩🍹",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ]
