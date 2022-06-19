@@ -140,10 +140,10 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton("⏭️", "skip"),
                       InlineKeyboardButton("▶️", callback_data="cbresume"),
                   ],[
-                      InlineKeyboardButton("• Group", url=f"https://t.me/+R7D0nHLk8s9jODA1"),
-                      InlineKeyboardButton("• Devloper", url=f"https://t.me/zara_THE_addiction"),
+                      InlineKeyboardButton("• 𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/tamil_chatbox"),
+                      InlineKeyboardButton("• 𝙈𝙔 𝘽𝙊𝙎𝙎", url=f"https://t.me/imzaynking"),
                   ],[
-                      InlineKeyboardButton("🗑", callback_data="cls")],
+                      InlineKeyboardButton("🗑 𝘾𝙇𝙊𝙎𝙀", callback_data="cls")],
                   ]
              )
     if m.sender_chat:
@@ -255,17 +255,17 @@ async def play(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/+R7D0nHLk8s9jODA1")
+                            InlineKeyboardButton("🥰 𝙎𝙐𝙋𝙋𝙊𝙍𝙏", url=f"https://t.me/tamil_chatbox")
                         ],
                         [
-                            InlineKeyboardButton("🗑 Close", callback_data="cls")
+                            InlineKeyboardButton("🗑 𝘾𝙇𝙊𝙎𝙀", callback_data="cls")
                         ]
                     ]
                 )
             )
         else:
             suhu = await m.reply_text(
-        f"**𝐙𝐀𝐈𝐍 Downloading**\n\n0% ▓▓▓▓▓▓▓▓▓▓▓▓ 100%"
+        f"**🎵𝙎𝘼𝙉𝘼 𝙆𝙄𝙉𝙂 Downloading**\n\n0% ▓▓▓▓▓▓▓▓▓▓▓▓ 100%"
     )
             query = m.text.split(None, 1)[1]
             search = ytsearch(query)
@@ -300,7 +300,7 @@ async def play(c: Client, m: Message):
                     else:
                         try:
                             await suhu.edit(
-                            f"**𝗭𝗔𝗜𝗡 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**🎵𝙎𝘼𝙉𝘼 𝙆𝙄𝙉𝙂 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                             await call_py.join_group_call(
                                 chat_id,
