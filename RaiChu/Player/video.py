@@ -20,7 +20,7 @@ from pytgcalls.types.input_stream.quality import (
     MediumQualityVideo,
 )
 from youtubesearchpython import VideosSearch
-IMAGE_THUMBNAIL = "https://te.legra.ph/file/d3185c725b9ba69b3f339.jpg"
+IMAGE_THUMBNAIL = "https://telegra.ph/file/5246b5bbb16c6fa1d78f5.jpg"
 
 
 def ytsearch(query: str):
@@ -182,11 +182,11 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/ZaraSupport"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/+R7D0nHLk8s9jODA1")
+                            InlineKeyboardButton("🌈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/king_bioz"),
+                            InlineKeyboardButton("🥰 𝙎𝙐𝙋𝙋𝙊𝙍𝙏", url=f"https://t.me/tamil_chatbox")
                         ],
                         [
-                            InlineKeyboardButton("🗑 Close", callback_data="cls")
+                            InlineKeyboardButton("🗑 𝘾𝙇𝙊𝙎𝙀", callback_data="cls")
                         ]
                     ]
                 )
@@ -229,7 +229,7 @@ async def vplay(c: Client, m: Message):
                         else:
                             try:
                                 await loser.edit(
-                            f"**𝗭𝗔𝗜𝗡 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**🎵𝙎𝘼𝙉𝘼 𝙆𝙄𝙉𝙂 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                                 await call_py.join_group_call(
                                     chat_id,
@@ -262,8 +262,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/ZaraSupport"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/+R7D0nHLk8s9jODA1")
+                            InlineKeyboardButton("🌈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/king_bioz"),
+                            InlineKeyboardButton("🥰 𝙎𝙐𝙋𝙋𝙊𝙍𝙏", url=f"https://t.me/tamil_chatbox")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
@@ -306,7 +306,7 @@ async def vplay(c: Client, m: Message):
                     else:
                         try:
                             await loser.edit(
-                            f"**𝗧𝗵𝗲𝗗𝗲𝗮𝘁𝗵𝗦𝗼𝘂𝗹 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**🎵𝙎𝘼𝙉𝘼 𝙆𝙄𝙉𝙂 Downloader**\n\n**Title**: {title[:22]}\n\n100% ████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                             await call_py.join_group_call(
                                 chat_id,
