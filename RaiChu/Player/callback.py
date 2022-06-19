@@ -16,32 +16,32 @@ from RaiChu.config import (
 @Client.on_callback_query(filters.regex("cbstart"))
 async def cbstart(_, query: CallbackQuery):
     await query.edit_message_text(
-        f"""**I ᴀᴍ 𝗭𝗔𝗥𝗔 𝗠𝘂𝘀𝗶𝗰   
-ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [••❥⧉⃞🇿ₐ𝖗𝗮̥ͦ─⃜🔥 ͟͞⏤►](https://t.me/zara_THE_addiction)
+        f"""**I ᴀᴍ 𝙎𝘼𝙉𝘼 𝙆𝙄𝙉𝙂 🌈   
+ʙᴏᴛ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 ʙʏ [♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕](https://t.me/imzaynking)
 Thanks to add me 😇**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/zara_THE_addiction"
+                        "🍹🅞︎𝗪𝗡𝗘𝗥", url="https://t.me/imzaynking"
                     ),
                     InlineKeyboardButton(
-                        "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭", callback_data="cbbasic"
+                        "⭐𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭", callback_data="cbbasic"
                     ),
                     InlineKeyboardButton(
                         "How to add me🤷", callback_data="cbhowtouse"
                     ),
                   ],[
                     InlineKeyboardButton(
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/+R7D0nHLk8s9jODA1"
+                       "🥰𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/tamil_chatbox"
                     ),
                     InlineKeyboardButton(
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/ZaraSupport"
+                        "💙𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/king_bioz"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩➕",
+                        "⭐𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩⭐",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ]
@@ -56,7 +56,7 @@ async def cbguides(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""❓ **Basic Guide for using this bot:**
         
-⊙ https://te.legra.ph/file/d3185c725b9ba69b3f339.jpg
+⊙ https://telegra.ph/file/5246b5bbb16c6fa1d78f5.jpg
 
 1.) **First, add me to your group.**
 2.) **Then, promote me as administrator and give all permissions except Anonymous Admin.**
@@ -69,7 +69,7 @@ async def cbguides(_, query: CallbackQuery):
 
 💡 **If you have a follow-up questions about this bot, you can tell it on my support chat here: @{GROUP_SUPPORT}**
 
-**✨ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴢᴀɪɴ ʜᴜssᴀɪɴ** """,
+**✨ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("ʙ ᴀ ᴄ ᴋ", callback_data="cbstart")]]
         ),
@@ -83,7 +83,7 @@ async def cbcmds(_, query: CallbackQuery):
 
 » **press the button below to read the explanation and see the list of available commands !**
 
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -114,7 +114,7 @@ async def cbbasic(_, query: CallbackQuery):
 
 🙋 » /end - to end play song in vc
 
- **✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ:ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+ **✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ:♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbstart")]]
         ),
@@ -137,7 +137,7 @@ async def cbadmin(_, query: CallbackQuery):
 ➯ /userbotjoin - invite the userbot to join group
 ➯ /userbotleave - order userbot to leave from group
 
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),
@@ -155,7 +155,7 @@ async def cbsudo(_, query: CallbackQuery):
 ➯ /restart - restart your bot
 ➯ /leaveall - order userbot to leave from all group
 
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
         ),
@@ -196,7 +196,7 @@ async def cbsetup(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""**Hello !**
 » **press the button below to read the explanation and see the help commands !**
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!**""",
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -220,7 +220,7 @@ async def noiwel(_, query: CallbackQuery):
 
 ➯ /resetwelcome for reset welcome message.
 
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbsetup")]]
         ),
@@ -232,7 +232,7 @@ async def noilyric(_, query: CallbackQuery):
 
 ➯ /lyric ( song name ) for the get lyric of song
 
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbsetup")]]
         ),
@@ -245,7 +245,7 @@ async def noivoice(_, query: CallbackQuery):
 
 ➯ /tts fot get voice from text message
 
-**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ᴢᴀɪɴ ʜᴜssᴀɪɴ!** """,
+**✗ ᴅᴇᴠᴇʟᴏᴘᴇᴅ Bʏ: ♕ㅤ▉🇰 🇮 🇳 🇬 ▉ㅤ♕** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbsetup")]]
         ),
